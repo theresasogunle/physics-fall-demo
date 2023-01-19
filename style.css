@@ -1,0 +1,10 @@
+section.split {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 50%;
+  background-color: white;
+  mix-blend-mode: difference;
+  pointer-events: none;
+}
